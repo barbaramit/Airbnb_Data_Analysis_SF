@@ -1,7 +1,7 @@
 # Airbnb_Data_Analysis_SF
 Análise dos Dados do Airbnb - San Francisco, California
 
-O Airbnb já é considerado como sendo a maior empresa hoteleira da atualidade mesmo sem possuir nenhum hotel. No final de 2018, a Startup já havia hospedado mais de 300 milhões de pessoas ao redor de todo o mundo. 
+O Airbnb já é considerado a maior empresa hoteleira da atualidade mesmo sem possuir nenhum hotel. No final de 2018, a Startup já havia hospedado mais de 300 milhões de pessoas ao redor de todo o mundo. 
 
 Neste notebook, iremos analisar os dados referentes à cidade de San Francisco na California, e ver quais insights podem ser extraídos a partir de dados brutos.
 
