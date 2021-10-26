@@ -10,7 +10,7 @@ Neste notebook, iremos analisar os dados referentes à cidade de San Francisco n
 ## 📂 Arquivos
 
 - Dados utilizados: [Download versão resumida Dados do Airbnb de San Francisco](http://data.insideairbnb.com/united-states/ca/san-francisco/2021-10-06/visualisations/listings.csv);
-- Leia o notebook do projeto: [Análise dos Dados do Airbnb : San Francisco - California](https://github.com/barbaramit/Airbnb_Data_Analysis_SF/blob/main/Analisando_os_Dados_do_Airbnb_SF.ipynb).
+- Leia o notebook do projeto: [Análise dos Dados do Airbnb : San Francisco - California](https://github.com/barbaramit/Airbnb_Data_Analysis_SF/blob/main/Analisando_os_Dados_Airbnb_SF.ipynb).
 
 ## 🚀 Ferramentas 
 
